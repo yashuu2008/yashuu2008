@@ -22,6 +22,15 @@
 - 🧠 500+ DSA problems solved · LeetCode 1600+ · Codeforces Pupil · CodeChef 3★
 - 🌱 Currently exploring: Go, distributed systems, AWS
 
+## 💼 Experience
+
+**Backend Engineering Intern · DocRack AI** (Remote, May 2026 – Jul 2026)
+
+- Implemented API rate limiting and **BullMQ** background job processing, reducing server load and improving API stability under high traffic
+- Integrated **Redis caching** on high-demand APIs, cutting response times by **30%**
+- Built core backend features: third-party API integrations, business logic, and database operations
+- Delivered **10+** backend tasks, including production bug fixes and feature enhancements
+
 ## 🛠️ Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
