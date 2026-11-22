@@ -19,7 +19,7 @@
 - ⚙️ I build scalable backend systems: microservices, caching, queues, and concurrency-safe APIs
 - 💼 Backend Engineering Intern at **DocRack AI**: rate limiting, BullMQ jobs, Redis caching (30% faster responses)
 - 🏆 **Top 0.42% nationwide** at Adobe University Hackathon 2026
-- 🧠 350+ DSA problems solved · LeetCode 1600+ · Codeforces Pupil · CodeChef 3★
+- 🧠 500+ DSA problems solved · LeetCode 1600+ · Codeforces Pupil · CodeChef 3★
 - 🌱 Currently exploring: Go, distributed systems, AWS
 
 ## 🛠️ Tech Stack
