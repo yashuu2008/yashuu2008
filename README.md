@@ -18,7 +18,9 @@
 - 🎓 B.Tech CSE at **IIIT Bhagalpur** (CGPA 8.77), batch of 2028
 - ⚙️ I build scalable backend systems: microservices, caching, queues, and concurrency-safe APIs
 - 💼 Backend Engineering Intern at **DocRack AI**: rate limiting, BullMQ jobs, Redis caching (30% faster responses)
-- 🏆 **Top 0.42% nationwide** at Adobe University Hackathon 2026
+- CodeSprint 2026– Elite Coders [Semi-Finalist]: Secured a Top 500 rank (3%) among 15,000+ participants,
+recognized for consistent participation, collaboration, and performance
+- 🏆 **Top 1% nationwide** at Adobe University Hackathon 2026
 - 🧠 500+ DSA problems solved · LeetCode 1600+ · Codeforces Pupil · CodeChef 3★
 - 🌱 Currently exploring: Go, distributed systems, AWS
 
